@@ -1,8 +1,8 @@
 {
   "Group": "dev.muriplz",
-  "Name": "ExamplePlugin",
+  "Name": "Queueue",
   "Version": "1.0",
-  "Description": "Your plugin description here.",
+  "Description": "Adds a queue to hytale servers.",
   "Authors": [
     {
       "Name": "MuriPlz",

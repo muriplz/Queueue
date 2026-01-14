@@ -1,2 +1,2 @@
-rootProject.name = "hytale-template"
+rootProject.name = "queueue"
 

@@ -1,0 +1,13 @@
+{
+  "maxPlayers": 100,
+  "queue": {
+    "maxSize": 500,
+    "timeoutSeconds": 300
+  },
+  "messages": {
+    "serverFull": "Server full. Queue position: {position}/{total}. Come back in less than {minutes}min to keep your spot."
+  },
+  "usernameWhitelist": [
+    "MuriPlz"
+  ]
+}
