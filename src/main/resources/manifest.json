@@ -1,0 +1,19 @@
+{
+  "Group": "dev.muriplz",
+  "Name": "ExamplePlugin",
+  "Version": "1.0",
+  "Description": "Your plugin description here.",
+  "Authors": [
+    {
+      "Name": "MuriPlz",
+      "Email": "contact@muriplz.dev",
+      "Url": "https://muriplz.dev"
+    }
+  ],
+  "Website": "https://muriplz.dev",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "dev.muriplz.Main"
+}

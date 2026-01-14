@@ -1,0 +1,1 @@
+place `HytaleServer.jar` into `libs` folder.
